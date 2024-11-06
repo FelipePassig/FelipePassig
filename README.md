@@ -1,5 +1,5 @@
 # Olá, me chamo ***Felipe Passig***.
-### Tenho 21 anos, estudando programação desde os 17
+### Tenho 22 anos, estudando programação desde os 17
 ### 📚 Estudando atualmente _JavaScript_
 
 ## Minhas skills
