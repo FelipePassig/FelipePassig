@@ -14,7 +14,7 @@
 </div>
 
 ## Hello, my name is Felipe Passig.
-### I'm 21 years old, studying programming since I was 17
+### I'm 22 years old, studying programming since I was 17
 ### 📚 Currently learning _JavaScript_
 ## My skills
 
